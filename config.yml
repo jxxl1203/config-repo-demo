@@ -2,4 +2,5 @@ info:
   title: springcloud
   type: default
 test: lala  title: config
+  title: config
   type: default-refresh
