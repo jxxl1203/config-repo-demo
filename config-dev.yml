@@ -1,4 +1,5 @@
 info: 
   title: springcloud-dev
+  title: config-dev
   type: dev
 test: lala
